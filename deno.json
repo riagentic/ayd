@@ -1,5 +1,5 @@
 {
-  "aioVersion": "v1.0.24-beta",
+  "aioVersion": "v1.0.25-beta",
   "title": "ayd",
   "version": "0.1.0",
   "client": "electron",
